@@ -1,0 +1,9 @@
+- Desafio: Sistema de Agenda de Contatos
+
+Objetivo: Criar um sistema para gerenciar contatos de uma agenda.
+
+Requisitos:
+
+Crie uma classe Contato com atributos: nome, telefone e email.
+Crie uma classe Agenda que pode adicionar, remover e listar contatos.
+Adicione métodos para buscar um contato pelo nome e atualizar informações de um contato existente.
